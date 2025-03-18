@@ -46,4 +46,4 @@ pip install pandas matplotlib scikit-learn fpdf
 
 ## Autor
 
-Este projeto foi desenvolvido por [Seu Nome]. 
+Este projeto foi desenvolvido por Filipe Fernando. 
